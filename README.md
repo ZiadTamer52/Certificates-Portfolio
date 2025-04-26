@@ -1,2 +1,21 @@
-# Certificates-Portfolio
-A collection of my professional certificates across cybersecurity, programing, and more.
+# Certificates Portfolio
+
+Welcome to my personal collection of professional certificates.  
+Each certificate represents a step forward in my journey of continuous learning and growth.
+
+---
+
+## List of Certificates
+
+- [Cryptography with Python Certificate - February 13, 2024](./Cryptography-with-Python-Certificate-13Feb2024/)
+
+---
+
+## About Me
+
+I'm passionate about cybersecurity, ethical hacking, and coding magical solutions using technology.  
+This portfolio showcases my dedication to mastering different domains over time.
+
+Stay tuned — more achievements are on the way!
+
+---
