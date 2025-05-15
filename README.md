@@ -7,6 +7,7 @@ Each certificate represents a step forward in my journey of continuous learning 
 
 ## List of Certificates
 
+- [Scientific computing with python - May 15, 2025](./Scientific-Computing-With-Python-15May2025)
 - [Foundations of Cybersecurity - May 8, 2025](./Foundations-of-Cybersecurity-8May2025/)
 - [Cryptography with Python Certificate - February 13, 2024](./Cryptography-with-python-13Feb2024/)
   
