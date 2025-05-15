@@ -2,6 +2,8 @@
 
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Scientific%20Computing%20with%20Python-brightgreen?logo=freeCodeCamp&logoColor=white&style=flat-square)](https://www.freecodecamp.org/certification/fccc41c81b1-0172-46fd-9a40-96dd27346848/scientific-computing-with-python-v7)
 
+![Certificate](.//Scientific_Computing_with_Python(FCC).jpg)
+
 This repository contains the completed projects and exercises for the Scientific Computing with Python certification from freeCodeCamp.org. The certificate demonstrates proficiency in Python for scientific and mathematical computing.
 
 ## Certificate Overview
