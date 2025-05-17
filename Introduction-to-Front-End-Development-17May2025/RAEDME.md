@@ -5,7 +5,7 @@
 *Course Completed on:* [Coursera](https://coursera.org/share/aa96f0ee3f63e82f255ed4a3fa007667)  
 *Provided by:* Meta (Facebook)
 
-![Certificate](./Certificate.jpg)
+![Certificate](./CERTIFICATE_LANDING_PAGE~65NUAKFAKOBD.jpeg)
 
 ## Overview
 
