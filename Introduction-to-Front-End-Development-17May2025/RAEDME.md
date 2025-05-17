@@ -1,7 +1,6 @@
 # Introduction to Front-End Development - May 17,2025
 
-[![Introduction to Front-End Development - Meta](https://img.shields.io/badge/Meta-Front--End%20Development-blue?style=for-the-badge&logo=Meta&logoColor=white)](https://coursera.org/share/aa96f0ee3f63e82f255ed4a3fa007667)
-
+[![Introduction to Front-End Development - Meta](https://img.shields.io/badge/Meta-Front--End%20Development-blue?style=for-the-badge&logo=Meta&logoColor=white)](https://coursera.org/share/aa96f0ee3f63e82f255ed4a3fa007667)                                                           
 Completed via Coursera | Issued by Meta
 
 ![Certificate](./CERTIFICATE_LANDING_PAGE~65NUAKFAKOBD.jpeg)
