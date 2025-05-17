@@ -2,8 +2,7 @@
 
 [![Introduction to Front-End Development - Meta](https://img.shields.io/badge/Meta-Front--End%20Development-blue?style=for-the-badge&logo=Meta&logoColor=white)](https://coursera.org/share/aa96f0ee3f63e82f255ed4a3fa007667)
 
-*Course Completed on:* [Coursera](https://coursera.org/share/aa96f0ee3f63e82f255ed4a3fa007667)  
-*Provided by:* Meta (Facebook)
+Completed via Coursera | Issued by Meta
 
 ![Certificate](./CERTIFICATE_LANDING_PAGE~65NUAKFAKOBD.jpeg)
 
