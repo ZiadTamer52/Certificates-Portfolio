@@ -7,6 +7,7 @@ Each certificate represents a step forward in my journey of continuous learning 
 
 ## List of Certificates
 
+- [CCNA-Introduction to Networks (Cisco) - Jul 27, 2025](./ccna-introduction-to-networks) 
 - [Introduction to Front-End Development (Meta) - May 17, 2025](./Introduction-to-Front-End-Development-17May2025) 
 - [Scientific computing with python (FreeCodeCamp) - May 15, 2025](./Scientific-Computing-With-Python-15May2025)
 - [Foundations of Cybersecurity (Google) - May 8, 2025](./Foundations-of-Cybersecurity-8May2025/)
