@@ -20,6 +20,6 @@ Each certificate represents a step forward in my journey of continuous learning 
 I'm passionate about cybersecurity, ethical hacking, and coding magical solutions using technology.  
 This portfolio showcases my dedication to mastering different domains over time.
 
-Stay tuned — more achievements are on the way!
+Stay tuned more achievements are on the way!
 
 ---
